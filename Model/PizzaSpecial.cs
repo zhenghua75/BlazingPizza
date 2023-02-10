@@ -2,6 +2,7 @@
 {
     /// <summary>
     /// Represents a pre-configured template for a pizza a user can order
+    ///披萨特价商品
     /// </summary>
     public class PizzaSpecial
     {
