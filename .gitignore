@@ -1,2 +1,11 @@
 
 obj/Debug/net6.0/project.razor.json
+obj/Debug/net7.0/project.razor.json
+obj/Debug/net7.0/BlazingPizza.RazorAssemblyInfo.cs
+obj/Debug/net7.0/BlazingPizza.RazorAssemblyInfo.cache
+obj/Debug/net7.0/BlazingPizza.GlobalUsings.g.cs
+obj/Debug/net7.0/BlazingPizza.GeneratedMSBuildEditorConfig.editorconfig
+obj/Debug/net7.0/BlazingPizza.csproj.AssemblyReference.cache
+obj/Debug/net7.0/BlazingPizza.AssemblyInfoInputs.cache
+obj/Debug/net7.0/BlazingPizza.AssemblyInfo.cs
+obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
