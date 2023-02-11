@@ -71,6 +71,3 @@ bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
 bin/Debug/net7.0/SQLitePCLRaw.core.dll
 bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
 obj/Debug/net7.0/BlazingPizza.csproj.CopyComplete
-pizza.db
-pizza.db-shm
-pizza.db-wal
